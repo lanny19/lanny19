@@ -24,7 +24,7 @@ Feel free to explore my GitHub repositories for more code snippets and projects!
 
 ## Contact
 
-- **GitHub:** [Your GitHub Profile](https://github.com/lanny19)
+- **GitHub:** [My GitHub Profile](https://github.com/lanny19)
 - **Email:** [Click to get information](nika.kochuashvili@gmail.com)
 
 Let's connect and learn together! 🚀
