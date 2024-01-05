@@ -25,6 +25,6 @@ Feel free to explore my GitHub repositories for more code snippets and projects!
 ## Contact
 
 - **GitHub:** [Your GitHub Profile](https://github.com/lanny19)
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
+- **Email:** [Click to get information](nika.kochuashvili@gmail.com)
 
 Let's connect and learn together! 🚀
